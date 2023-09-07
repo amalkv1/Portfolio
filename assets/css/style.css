@@ -243,6 +243,7 @@ h6 {
   height: 100vh;
   background: url("../img/IMG-20230113-WA0032-01.jpeg") top center;
   background-size: cover;
+  position: relative;
 }
 
 #hero:before {
